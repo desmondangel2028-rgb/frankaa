@@ -1,0 +1,6 @@
+{
+  "name": "Awurade Ne Me Franka Business Manager",
+  "description": "Comprehensive offline-first business manager for tracking stock, sales with bargaining prices, purchases, lorry fare, expenses, profit/loss, and Google Sheets export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
